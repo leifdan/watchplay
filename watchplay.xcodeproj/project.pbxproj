@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		23827DDA1C5C00D800F1D2A6 /* HouseData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23827DD91C5C00D800F1D2A6 /* HouseData.swift */; };
 		23D51C361C51742A00C4E4D0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23D51C351C51742A00C4E4D0 /* AppDelegate.swift */; };
 		23D51C381C51742A00C4E4D0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23D51C371C51742A00C4E4D0 /* ViewController.swift */; };
 		23D51C3B1C51742A00C4E4D0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23D51C391C51742A00C4E4D0 /* Main.storyboard */; };
@@ -67,6 +68,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		23827DD91C5C00D800F1D2A6 /* HouseData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HouseData.swift; sourceTree = "<group>"; };
 		23D51C321C51742A00C4E4D0 /* watchplay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = watchplay.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23D51C351C51742A00C4E4D0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		23D51C371C51742A00C4E4D0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -157,6 +159,7 @@
 				23D51C5C1C51742B00C4E4D0 /* ExtensionDelegate.swift */,
 				23D51C5E1C51742B00C4E4D0 /* NotificationController.swift */,
 				23D51C601C51742B00C4E4D0 /* GlanceController.swift */,
+				23827DD91C5C00D800F1D2A6 /* HouseData.swift */,
 				23D51C621C51742B00C4E4D0 /* ComplicationController.swift */,
 				23D51C641C51742B00C4E4D0 /* Assets.xcassets */,
 				23D51C661C51742B00C4E4D0 /* Info.plist */,
@@ -321,6 +324,7 @@
 				23D51C5D1C51742B00C4E4D0 /* ExtensionDelegate.swift in Sources */,
 				23D51C631C51742B00C4E4D0 /* ComplicationController.swift in Sources */,
 				23D51C5B1C51742B00C4E4D0 /* InterfaceController.swift in Sources */,
+				23827DDA1C5C00D800F1D2A6 /* HouseData.swift in Sources */,
 				23D51C611C51742B00C4E4D0 /* GlanceController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
